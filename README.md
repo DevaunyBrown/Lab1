@@ -3,7 +3,7 @@
 This serves to facilitate students to become more familiar with git and GitHub for the purpose of version control
 
 
-# Functuion Discription 
+# Functuion Description 
 
 1) The hello() function simply returns the course code and title
 
