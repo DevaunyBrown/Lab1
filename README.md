@@ -1,6 +1,6 @@
 # ECSE3038-LAB1
 
-This serves to facilliate students to become more familiar with git and GitHub for the purpose of version control
+This serves to facilitate students to become more familiar with git and GitHub for the purpose of version control
 
 
 # Functuion Discription 
