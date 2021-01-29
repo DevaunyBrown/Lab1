@@ -9,7 +9,7 @@ This serves to facilitate students to become more familiar with git and GitHub f
 
 2) The ValidPassword() function checks the validity of a users password based on specfic requirements
 
-3) The SumUpToN() funtion returns the sum of integers to the input number itself 
+3) The SumUpToN() function returns the sum of integers to the input number itself 
    eg. input =5; sum=1+2+..5
 
 
